@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waveing&color=auto&height=300&section=header&text=Junsu%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junsu%20Kim&fontSize=90)
 
 <h2 align="center">🧑🏻‍💻 Programming Related 🧑🏻‍💻 </h3>
 <h3 align="center">I am a student who is trying to become an iOS app developer. 🍎🍎🍎</h3>
