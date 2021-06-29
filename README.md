@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 
-<a href="https://blog.naver.com/rlawnstn01023"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=Naver&logoColor=white&link="/></a>
+<a href="https://blog.naver.com/rlawnstn01023"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link="/></a>
