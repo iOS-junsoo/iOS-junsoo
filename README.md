@@ -10,5 +10,6 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <a href="https://blog.naver.com/rlawnstn01023"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link="/></a>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=iOSoo)](https://velog.io/@iOSoo) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
 
 </p>
