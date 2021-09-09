@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <a href="https://blog.naver.com/rlawnstn01023"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link="/></a>
-<a href="https://velog.io/@rlawnstn01023"><img src="https://img.shields.io/badge/Velog-03C75A?style=flat-square&logo=Velog&logoColor=white&link="/></a>
+<a href="https://velog.io/@rlawnstn01023"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link="/></a>
 
 
 </p>
