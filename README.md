@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junsoo%20Kim&fontSize=90&animation=scaleIn)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-junsoo&show_icons=true&theme=radical)
+<h3 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-junsoo&show_icons=true&theme=radical)</h3>
 
-<h3 align="center">I am a student who is trying to become an iOS app developer. 🍎🍎🍎</h3>
+<h3 align="center">I am a student who is trying to become an iOS app developer. 🍎🍎🍎 </h3>
 
 <h2 align="center">🧑🏻‍💻 Programming Related 🧑🏻‍💻 </h3>
 <p align="center">
