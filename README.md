@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junsoo%20Kim&fontSize=90&animation=scaleIn)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-junsoo&show_icons=true&theme=radical)
 
 <h3 align="center">I am a student who is trying to become an iOS app developer. 🍎🍎🍎</h3>
 
@@ -11,5 +11,5 @@
 <a href="https://blog.naver.com/rlawnstn01023"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link="/></a>
 <a href="https://velog.io/@rlawnstn01023"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link="/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-junsoo&show_icons=true&theme=radical)
+
 </p>
