@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junsoo%20Kim&fontSize=90&animation=scaleIn)
 
+<h2 align="center">현재 산업체 진행중 ~2024.02 </h2>
 
 <h3 align="center">I am a student who is trying to become an iOS app developer. 🍎🍎🍎 </h3>
 
