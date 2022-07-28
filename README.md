@@ -19,7 +19,7 @@
 ## 📞 Contact</br>
 `BirthDay` | 2001.10.23</br>
 `Email` | rlawnstn01023@naver.com</br>
-`Github` | https://github.com/iOS-junso</br>
+`Github` | https://github.com/iOS-junsoo</br>
 `Blog` | https://iosoo.tistory.com/
 
 
