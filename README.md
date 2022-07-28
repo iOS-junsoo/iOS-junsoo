@@ -16,7 +16,7 @@
 <a href="https://developer.apple.com/kr/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 
 
-## Contact</br>
+## 📞 Contact</br>
 `BirthDay` | 2001.10.23</br>
 `Email` | rlawnstn01023@naver.com</br>
 `Github` | [https://github.com/iOS-junso)</br>
