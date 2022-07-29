@@ -26,7 +26,7 @@
 
 
 ```
-🚧 본인의 실력이 많이 부족하기 때문에 프로필이 많이 부실합니다. 차근차근 성장하여 프로필을 채우겠습니다. 🚧
+🚧 아직까지는 경험이 많지 않기 때문에 프로필이 많이 부실합니다. 차근차근 성장해서 프로필을 채우겠습니다. 🚧
 ```
 
 <div align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FiOS-junsoo&count_bg=%23823DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=+visitors&edge_flat=false"/></a>  </div>
