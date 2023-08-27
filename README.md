@@ -14,7 +14,7 @@
 <a href="https://www.notion.so/ko-kr/product?utm_source=google&utm_campaign=10805039169&utm_medium=104440699817&utm_content=455555244419&utm_term=%EB%85%B8%EC%85%98&targetid=kwd-827502875973&gclid=Cj0KCQjw54iXBhCXARIsADWpsG8m3aUZ1guoDWiFm33rKjSY5EZDzkf2BoO3P7uHxKC0gbjC-tK8cJIaAiErEALw_wcB/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swfit-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+<a href="https://developer.apple.com/kr/xcode/"><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
 
 
 ## 📞 Contact</br>
